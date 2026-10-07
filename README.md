@@ -1,4 +1,5 @@
 # Calidad del Software
+# Autor: Francisco Higuera
 
 Repositorio de apoyo para la materia **Calidad del Software**. Reúne conceptos fundamentales y sirve como espacio para ejercicios, prácticas y evidencias relacionadas con la calidad y las pruebas de software.
 
